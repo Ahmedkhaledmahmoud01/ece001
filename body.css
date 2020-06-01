@@ -1,0 +1,19 @@
+body
+{
+    border-width: 2px;
+    border-color:#686D79 ;
+    border-style: groove;
+    border-radius: 20px;
+padding: 7px;
+background-image: url(https://images.hdqwalls.com/wallpapers/grid-waves-lu.jpg);
+background-repeat: no-repeat;
+}
+div{ 
+    width:85px;
+    border-width: 2px;
+    border-color: rgb(236, 236, 236);
+    border-style: ridge;
+    border-radius: 10px;
+    padding: 4px;
+
+}
